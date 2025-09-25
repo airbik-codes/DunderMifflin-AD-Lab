@@ -45,16 +45,66 @@ The lab demonstrates:
 
 ## 🗂 Organizational Units (OUs)
 
-- **New York (HQ)** OU  
-  - `Computers`  
-  - `Users` → Departments: Finance, Executive  
+The domain structure was designed to mimic a real-world enterprise, with a headquarters (NY-HQ) and a branch (Scranton).  
 
-- **Scranton (Branch)** OU  
-  - `Computers`  
-  - `Users` → Departments: Sales, HR, IT, Accounting, Admin, Customer Service, Warehouse, QA, Supplier Relations  
+### 🔸 New York HQ (NY-HQ)
+- **Computers**
+- **Users**
+  - **Executives**
+    - David Wallace (CFO)
+    - Jan Levinson (CEO)
+  - **Groups**
+    - ExecutiveGroups
 
-- **Groups** OU  
-  - Departmental Security Groups (Sales, HR, IT, Accounting, etc.)  
+---
+
+### 🔸 Scranton Branch
+- **Computers**
+- **Users**
+  - **Accounting**
+    - Angela Martin
+    - Oscar Martinez
+    - Kevin Malone
+  - **CustomerService**
+    - Kelly Kapoor
+  - **HR**
+    - Toby Flenderson
+    - Holly Flax
+  - **IT**
+    - Sadiq
+    - Nick
+  - **Management**
+    - Michael Scott (Regional Manager)
+  - **OfficeAdmin**
+    - Pam Beesly (Office Admin)
+  - **Reception**
+    - Erin Hannon
+  - **QA**
+    - Creed Bratton
+  - **Sales**
+    - Jim Halpert
+    - Dwight Schrute
+    - Andy Bernard
+    - Phyllis Lapin
+    - Stanley Hudson
+  - **SupplierRelations**
+    - Meredith Palmer
+  - **Temp**
+    - Ryan Howard
+  - **Warehouse**
+    - Darryl Philbin
+  - **Interns**
+    - Eric
+    - Megan
+    - Maurie
+  - **Groups**
+    - AccountingGroups
+    - ExecutiveGroups
+    - HRGroups
+    - InternGroups
+    - QAGroups
+    - SalesGroups
+    - SupplierRelationsGroups
 
 ---
 
