@@ -209,3 +209,28 @@ Permission denied on join: Use Domain Admin credentials (not regular user).
 
 
 ✅ At this point, Client1-Scranton is a fully functioning domain-joined workstation in the Dunder Mifflin AD lab.
+
+![C1](../docs/images/Client1_Setup/C1.png)  
+![C2](../docs/images/Client1_Setup/C2.png)  
+![C3](../docs/images/Client1_Setup/C3.png)  
+![C4](../docs/images/Client1_Setup/C4.png)  
+![C5](../docs/images/Client1_Setup/C5.png)  
+![C6](../docs/images/Client1_Setup/C6.png)  
+![C7](../docs/images/Client1_Setup/C7.png)  
+![C8](../docs/images/Client1_Setup/C8.png)  
+![C9](../docs/images/Client1_Setup/C9.png)  
+![C10](../docs/images/Client1_Setup/C10.png)  
+![C11](../docs/images/Client1_Setup/C11.png)  
+![C12](../docs/images/Client1_Setup/C12.png)  
+![C13](../docs/images/Client1_Setup/C13.png)  
+![C14](../docs/images/Client1_Setup/C14.png)  
+![C15](../docs/images/Client1_Setup/C15.png)  
+![C16](../docs/images/Client1_Setup/C16.png)  
+![C17](../docs/images/Client1_Setup/C17.png)  
+![C18](../docs/images/Client1_Setup/C18.png)  
+![C19](../docs/images/Client1_Setup/C19.png)  
+![C20](../docs/images/Client1_Setup/C20.png)  
+![C21](../docs/images/Client1_Setup/C21.png)  
+![C22](../docs/images/Client1_Setup/C22.png)  
+
+
