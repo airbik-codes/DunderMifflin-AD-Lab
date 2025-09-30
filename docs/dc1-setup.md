@@ -348,4 +348,13 @@ This VM becomes the authoritative source for the dundermifflin.com domain. Keep 
 ![ADDS20](../docs/images/DC1_ADDS_Setup/20.png)  
 ![ADDS21](../docs/images/DC1_ADDS_Setup/21.png)  
 ![ADDS22](../docs/images/DC1_ADDS_Setup/22.png)  
+![OU1](../docs/images/DC1_OU_User_Setup/1.png)  
+![OU2](../docs/images/DC1_OU_User_Setup/2.png)  
+![OU3](../docs/images/DC1_OU_User_Setup/3.png)  
+![OU4](../docs/images/DC1_OU_User_Setup/4.png)  
+![OU5](../docs/images/DC1_OU_User_Setup/5.png)  
+![OU6](../docs/images/DC1_OU_User_Setup/6.png)  
+![OU7](../docs/images/DC1_OU_User_Setup/7.png)  
+![OU8](../docs/images/DC1_OU_User_Setup/8.png)  
+![OU9](../docs/images/DC1_OU_User_Setup/9.png)  
 
