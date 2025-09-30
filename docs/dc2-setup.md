@@ -348,4 +348,18 @@ After promotion, periodically review Event Viewer on the RODC for replication an
 ![DC2-22](../docs/images/DC2/22.png)  
 ![DC2-23](../docs/images/DC2/23.png)  
 ![DC2-24](../docs/images/DC2/24.png)  
+![DC2-RODC-1](../docs/images/DC2_ADDS_RODC_Setup/1.png)  
+![DC2-RODC-2](../docs/images/DC2_ADDS_RODC_Setup/2.png)  
+![DC2-RODC-3](../docs/images/DC2_ADDS_RODC_Setup/3.png)  
+![DC2-RODC-4](../docs/images/DC2_ADDS_RODC_Setup/4.png)  
+![DC2-RODC-5](../docs/images/DC2_ADDS_RODC_Setup/5.png)  
+![DC2-RODC-6](../docs/images/DC2_ADDS_RODC_Setup/6.png)  
+![DC2-RODC-7](../docs/images/DC2_ADDS_RODC_Setup/7.png)  
+![DC2-RODC-8](../docs/images/DC2_ADDS_RODC_Setup/8.png)  
+![DC2-RODC-9](../docs/images/DC2_ADDS_RODC_Setup/9.png)  
+![DC2-RODC-10](../docs/images/DC2_ADDS_RODC_Setup/10.png)  
+![DC2-RODC-11](../docs/images/DC2_ADDS_RODC_Setup/11.png)  
+![DC2-RODC-11](../docs/images/DC2_ADDS_RODC_Setup/108.png) 
+![DC2-RODC-11](../docs/images/DC2_ADDS_RODC_Setup/118.png) 
+
 
