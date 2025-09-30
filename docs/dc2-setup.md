@@ -323,3 +323,29 @@ Do not cache more passwords on the RODC than necessary — follow least privileg
 Document which accounts/groups you allow to replicate to the RODC and why.
 
 After promotion, periodically review Event Viewer on the RODC for replication and service issues.
+
+![DC2-1](../docs/images/DC2/1.png)  
+![DC2-2](../docs/images/DC2/2.png)  
+![DC2-3](../docs/images/DC2/3.png)  
+![DC2-4](../docs/images/DC2/4.png)  
+![DC2-5](../docs/images/DC2/5.png)  
+![DC2-6](../docs/images/DC2/6.png)  
+![DC2-7](../docs/images/DC2/7.png)  
+![DC2-8](../docs/images/DC2/8.png)  
+![DC2-9](../docs/images/DC2/9.png)  
+![DC2-10](../docs/images/DC2/10.png)  
+![DC2-11](../docs/images/DC2/11.png)  
+![DC2-12](../docs/images/DC2/12.png)  
+![DC2-13](../docs/images/DC2/13.png)  
+![DC2-14](../docs/images/DC2/14.png)  
+![DC2-15](../docs/images/DC2/15.png)  
+![DC2-16](../docs/images/DC2/16.png)  
+![DC2-17](../docs/images/DC2/17.png)  
+![DC2-18](../docs/images/DC2/18.png)  
+![DC2-19](../docs/images/DC2/19.png)  
+![DC2-20](../docs/images/DC2/20.png)  
+![DC2-21](../docs/images/DC2/21.png)  
+![DC2-22](../docs/images/DC2/22.png)  
+![DC2-23](../docs/images/DC2/23.png)  
+![DC2-24](../docs/images/DC2/24.png)  
+
