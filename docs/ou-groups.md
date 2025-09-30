@@ -126,6 +126,31 @@ I added users to simulate real Dunder Mifflin employees and executives.
 - Logged in with test user accounts on **client machines** to validate domain connectivity.
 - Verified group memberships were applied properly.
 
+![OU1](../docs/images/DC1_OU_User_Setup/1.png)  
+![OU2](../docs/images/DC1_OU_User_Setup/2.png)  
+![OU3](../docs/images/DC1_OU_User_Setup/3.png)  
+![OU4](../docs/images/DC1_OU_User_Setup/4.png)  
+![OU5](../docs/images/DC1_OU_User_Setup/5.png)  
+![OU6](../docs/images/DC1_OU_User_Setup/6.png)  
+![OU7](../docs/images/DC1_OU_User_Setup/7.png)  
+![OU8](../docs/images/DC1_OU_User_Setup/8.png)  
+![OU9](../docs/images/DC1_OU_User_Setup/9.png)  
+![OU1](../docs/images/DC1_OU_User_Setup/1.png)  
+![OU2](../docs/images/DC1_OU_User_Setup/2.png)  
+![OU3](../docs/images/DC1_OU_User_Setup/3.png)  
+![OU4](../docs/images/DC1_OU_User_Setup/4.png)  
+![OU5](../docs/images/DC1_OU_User_Setup/5.png)  
+![OU6](../docs/images/DC1_OU_User_Setup/6.png)  
+![OU7](../docs/images/DC1_OU_User_Setup/7.png)  
+![OU8](../docs/images/DC1_OU_User_Setup/8.png)  
+![OU9](../docs/images/DC1_OU_User_Setup/image140.png)  
+![OU9](../docs/images/DC1_OU_User_Setup/image143.png)  
+![OU9](../docs/images/DC1_OU_User_Setup/image18.png)  
+![OU9](../docs/images/DC1_OU_User_Setup/image23.png)  
+![OU9](../docs/images/DC1_OU_User_Setup/image68.png)  
+![OU9](../docs/images/DC1_OU_User_Setup/image75.png)  
+![OU9](../docs/images/DC1_OU_User_Setup/image97.png) 
+
 ---
 
 ✅ This OU and group structure mirrors a **real enterprise environment**, providing separation by department, role, and location. It also lays the foundation for applying **Group Policy Objects (GPOs)** and configuring **role-based access control (RBAC)** in the lab.
