@@ -299,3 +299,31 @@ repadmin /replsummary
 Final note
 
 This VM becomes the authoritative source for the dundermifflin.com domain. Keep the VM powered on while you add DC2-Scranton as an RODC and while you join clients. I document every command output and screenshot and upload them under docs/ and screenshots/ so recruiters can validate the work visually.
+
+![DC11](../docs/images/DC1/DC11.png)  
+![DC12](../docs/images/DC1/DC12.png)  
+![DC13](../docs/images/DC1/DC13.png)  
+![DC14](../docs/images/DC1/DC14.png)  
+![DC15](../docs/images/DC1/DC15.png)  
+![DC16](../docs/images/DC1/DC16.png)  
+![DC17](../docs/images/DC1/DC17.png)  
+![DC18](../docs/images/DC1/DC18.png)  
+![DC19](../docs/images/DC1/DC19.png)  
+![DC20](../docs/images/DC1/DC20.png)  
+![DC21](../docs/images/DC1/DC21.png)  
+![DC22](../docs/images/DC1/DC22.png)  
+![DC23](../docs/images/DC1/DC23.png)  
+![DC24](../docs/images/DC1/DC24.png)  
+![DC25](../docs/images/DC1/DC25.png)  
+![DC26](../docs/images/DC1/DC26.png)  
+![DC27](../docs/images/DC1/DC27.png)  
+![DC28](../docs/images/DC1/DC28.png)  
+![DC29](../docs/images/DC1/DC29.png)  
+![DC30](../docs/images/DC1/DC30.png)  
+![DC31](../docs/images/DC1/DC31.png)  
+![DC32](../docs/images/DC1/DC32.png)  
+![DC33](../docs/images/DC1/DC33.png)  
+![DC34](../docs/images/DC1/DC34.png)  
+![DC35](../docs/images/DC1/DC35.png)  
+![DC36](../docs/images/DC1/DC36.png)  
+
