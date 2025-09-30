@@ -372,4 +372,14 @@ This VM becomes the authoritative source for the dundermifflin.com domain. Keep 
 ![OU9](../docs/images/DC1_OU_User_Setup/image68.png)  
 ![OU9](../docs/images/DC1_OU_User_Setup/image75.png)  
 ![OU9](../docs/images/DC1_OU_User_Setup/image97.png)  
+![FS1](../docs/images/DC1_FileSharing_Setup/1.png)  
+![FS2](../docs/images/DC1_FileSharing_Setup/2.png)  
+![FS3](../docs/images/DC1_FileSharing_Setup/3.png)  
+![FS4](../docs/images/DC1_FileSharing_Setup/4.png)  
+![FS5](../docs/images/DC1_FileSharing_Setup/5.png)  
+![FS6](../docs/images/DC1_FileSharing_Setup/6.png)  
+![FS7](../docs/images/DC1_FileSharing_Setup/7.png)  
+![FS8](../docs/images/DC1_FileSharing_Setup/8.png)  
+![FS8](../docs/images/DC1_FileSharing_Setup/image114.png) 
+
 
